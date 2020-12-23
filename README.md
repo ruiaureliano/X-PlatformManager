@@ -2,6 +2,12 @@
 
 [![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.3-0f73b4.svg)](https://swift.org/blog/swift-5-3-released/) [![](https://img.shields.io/badge/platforms-1.0-0f73b4.svg)](./PLATFORMS.md) [![](https://img.shields.io/badge/docs-1.0-0f73b4.svg)](./DOCS.md)
 
+## Installation
+
+### Using Github
+
+[![](https://img.shields.io/badge/Download-1.0-0f73b4.svg?logo=github)](https://github.com/ruiaureliano/X-PlatformManager/releases/download/1.0/x-platformmanager_1.0.zip)
+
 ![](./assets/header/header.png)
 
 **X-PlatformManager** is a macOS app for managing Xcode platforms (**iOS**, **TVOS** ,and **WatchOS**), why we need this?, everytime we upgrade our device OS, Xcode stops to recognize when you connect the device 🤯.
@@ -21,12 +27,6 @@ There's an updated list (*December 23, 2020*) of **iOS**, **TVOS**, and **WatchO
 [![](./assets/readme/2.png)](./PLATFORMS.md)
 
 This happens because Xcode doesn't have the latest platform images, as suggested you can upgrade Xcode, but if for some reason you want (or need) to keep the current version, there's a workaround. You can do this manually, [**check how to**](./DOCS.md) or use this cool app 🥸
-
-## Installation
-
-### Using Github
-
-[![](https://img.shields.io/badge/Download-1.0-0f73b4.svg?logo=github)](https://github.com/ruiaureliano/X-PlatformManager/releases/download/1.0/x-platformmanager_1.0.zip)
 
 ## Usage
 
