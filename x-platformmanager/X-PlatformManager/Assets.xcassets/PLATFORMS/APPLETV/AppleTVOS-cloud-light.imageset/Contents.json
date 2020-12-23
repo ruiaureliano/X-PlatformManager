@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "AppleTVOS-cloud-light.png",
+      "idiom" : "mac",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "AppleTVOS-cloud-light@2x.png",
+      "idiom" : "mac",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

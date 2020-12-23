@@ -1,0 +1,7 @@
+#!/bin/sh
+
+cd "$(dirname "$0")"
+
+echo "\n🟡 START FORMATING CODE\n"
+swift-format -r -i ./X-PlatformManager/Source  --configuration ./.swift-format
+echo "   🟢 swift-format -r -i ./X-PlatformManager/Source  --configuration ./.swift-format"

@@ -1,0 +1,40 @@
+{
+  "images" : [
+    {
+      "filename" : "xcode-remove-bt.png",
+      "idiom" : "mac",
+      "scale" : "1x"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "xcode-remove-bt-dark.png",
+      "idiom" : "mac",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "xcode-remove-bt@2x.png",
+      "idiom" : "mac",
+      "scale" : "2x"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "xcode-remove-bt-dark@2x.png",
+      "idiom" : "mac",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

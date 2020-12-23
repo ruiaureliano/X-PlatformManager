@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "WatchOS-installed-light.png",
+      "idiom" : "mac",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "WatchOS-installed-light@2x.png",
+      "idiom" : "mac",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
