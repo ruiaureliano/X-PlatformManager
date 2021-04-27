@@ -1,6 +1,22 @@
 {
   "iPhoneOS" : [
     {
+      "dmg_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/iPhoneOS/14.5/DeveloperDiskImage.dmg",
+      "status" : "cloud",
+      "type" : "iPhoneOS",
+      "version" : "14.5",
+      "signature_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/iPhoneOS/14.5/DeveloperDiskImage.dmg.signature",
+      "build" : ""
+    },
+    {
+      "type" : "iPhoneOS",
+      "build" : "",
+      "status" : "cloud",
+      "dmg_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/iPhoneOS/14.4/DeveloperDiskImage.dmg",
+      "version" : "14.4",
+      "signature_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/iPhoneOS/14.4/DeveloperDiskImage.dmg.signature"
+    },
+    {
       "dmg_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/iPhoneOS/14.3/DeveloperDiskImage.dmg",
       "status" : "cloud",
       "type" : "iPhoneOS",
@@ -283,6 +299,22 @@
   ],
   "WatchOS" : [
     {
+      "signature_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/WatchOS/7.4/DeveloperDiskImage.dmg.signature",
+      "version" : "7.4",
+      "type" : "WatchOS",
+      "status" : "cloud",
+      "build" : "",
+      "dmg_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/WatchOS/7.4/DeveloperDiskImage.dmg"
+    },
+    {
+      "dmg_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/WatchOS/7.3/DeveloperDiskImage.dmg",
+      "status" : "cloud",
+      "build" : "",
+      "version" : "7.3",
+      "signature_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/WatchOS/7.3/DeveloperDiskImage.dmg.signature",
+      "type" : "WatchOS"
+    },
+    {
       "signature_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/WatchOS/7.2/DeveloperDiskImage.dmg.signature",
       "version" : "7.2",
       "type" : "WatchOS",
@@ -444,6 +476,22 @@
     }
   ],
   "AppleTVOS" : [
+    {
+      "status" : "cloud",
+      "dmg_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/AppleTVOS/14.5/DeveloperDiskImage.dmg",
+      "build" : "",
+      "signature_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/AppleTVOS/14.5/DeveloperDiskImage.dmg.signature",
+      "type" : "AppleTVOS",
+      "version" : "14.5"
+    },
+    {
+      "signature_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/AppleTVOS/14.4/DeveloperDiskImage.dmg.signature",
+      "version" : "14.4",
+      "status" : "cloud",
+      "type" : "AppleTVOS",
+      "build" : "",
+      "dmg_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/AppleTVOS/14.4/DeveloperDiskImage.dmg"
+    },
     {
       "status" : "cloud",
       "dmg_url" : "https://github.com/ruiaureliano/X-PlatformManager/raw/main/platforms/AppleTVOS/14.3/DeveloperDiskImage.dmg",
