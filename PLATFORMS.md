@@ -6,6 +6,9 @@
 
 ## AppleTVOS
 
+[![](https://img.shields.io/badge/AppleTV%20OS-15.0-0f73b4.svg)](./platforms/AppleTVOS/15.0) 
+[![](https://img.shields.io/badge/AppleTV%20OS-14.5-0f73b4.svg)](./platforms/AppleTVOS/14.5) 
+[![](https://img.shields.io/badge/AppleTV%20OS-14.4-0f73b4.svg)](./platforms/AppleTVOS/14.4) 
 [![](https://img.shields.io/badge/AppleTV%20OS-14.3-0f73b4.svg)](./platforms/AppleTVOS/14.3) 
 [![](https://img.shields.io/badge/AppleTV%20OS-14.2-0f73b4.svg)](./platforms/AppleTVOS/14.2)
 [![](https://img.shields.io/badge/AppleTV%20OS-14.1-0f73b4.svg)](./platforms/AppleTVOS/14.1)
@@ -33,6 +36,9 @@
 
 ## iPhoneOS
 
+[![](https://img.shields.io/badge/iPhone%20OS-15.0-0f73b4.svg)](./platforms/iPhoneOS/15.0)
+[![](https://img.shields.io/badge/iPhone%20OS-14.5-0f73b4.svg)](./platforms/iPhoneOS/14.5)
+[![](https://img.shields.io/badge/iPhone%20OS-14.4-0f73b4.svg)](./platforms/iPhoneOS/14.4)
 [![](https://img.shields.io/badge/iPhone%20OS-14.3-0f73b4.svg)](./platforms/iPhoneOS/14.3)
 [![](https://img.shields.io/badge/iPhone%20OS-14.2-0f73b4.svg)](./platforms/iPhoneOS/14.2)
 [![](https://img.shields.io/badge/iPhone%20OS-14.1-0f73b4.svg)](./platforms/iPhoneOS/14.1)
@@ -71,6 +77,9 @@
 
 ## WatchOS
 
+[![](https://img.shields.io/badge/Watch%20OS-8.0-0f73b4.svg)](./platforms/WatchOS/8.0)
+[![](https://img.shields.io/badge/Watch%20OS-7.4-0f73b4.svg)](./platforms/WatchOS/7.4)
+[![](https://img.shields.io/badge/Watch%20OS-7.3-0f73b4.svg)](./platforms/WatchOS/7.3)
 [![](https://img.shields.io/badge/Watch%20OS-7.2-0f73b4.svg)](./platforms/WatchOS/7.2)
 [![](https://img.shields.io/badge/Watch%20OS-7.1-0f73b4.svg)](./platforms/WatchOS/7.1) 
 [![](https://img.shields.io/badge/Watch%20OS-7.0-0f73b4.svg)](./platforms/WatchOS/7.0)
