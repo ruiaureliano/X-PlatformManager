@@ -1,6 +1,6 @@
 import Cocoa
 
-protocol XcodeViewControllerDelegate: class {
+protocol XcodeViewControllerDelegate: AnyObject {
 	func xcodeSelectionDidChange(index: Int, xcode: Xcode)
 }
 

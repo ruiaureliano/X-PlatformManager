@@ -2,7 +2,7 @@ import Cocoa
 
 private let kXSwiftFormatReleases = "https://api.github.com/repos/ruiaureliano/X-PlatformManager/releases"
 
-protocol PlatformViewControllerDelegate: class {
+protocol PlatformViewControllerDelegate: AnyObject {
 }
 
 class PlatformViewController: NSViewController {
