@@ -26,7 +26,7 @@ This happens because Xcode doesn't have the latest platform images, as suggested
 
 ### Using Github
 
-[![](https://img.shields.io/badge/Download-1.0-0f73b4.svg?logo=github)](https://github.com/ruiaureliano/X-PlatformManager/releases/download/1.0/x-platformmanager_1.0.zip)
+[![](https://img.shields.io/badge/Download-1.1-1f73b4.svg?logo=github)](https://github.com/ruiaureliano/X-PlatformManager/releases/download/1.1.1/x-platformmanager_1.1.1.zip)
 
 ## Usage
 
