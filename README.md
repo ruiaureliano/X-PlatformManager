@@ -1,6 +1,6 @@
 # ⚒️ X-PlatformManager
 
-[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.4-0f73b4.svg)](https://swift.org/blog/swift-5-4-released/) [![](https://img.shields.io/badge/platforms-13.0-0f73b4.svg)](./PLATFORMS.md) [![](https://img.shields.io/badge/docs-1.0-0f73b4.svg)](./DOCS.md)
+[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.6-0f73b4.svg)](https://swift.org/blog/swift-5-6-released/) [![](https://img.shields.io/badge/docs-1.0-0f73b4.svg)](./DOCS.md)
 
 ![](./assets/header/header.png)
 
@@ -26,7 +26,7 @@ This happens because Xcode doesn't have the latest platform images, as suggested
 
 ### Using Github
 
-[![](https://img.shields.io/badge/Download-1.0-0f73b4.svg?logo=github)](https://github.com/ruiaureliano/X-PlatformManager/releases/download/1.0/x-platformmanager_1.0.zip)
+[![](https://img.shields.io/badge/Download-1.1-1f73b4.svg?logo=github)](https://github.com/ruiaureliano/X-PlatformManager/releases/download/1.1.1/x-platformmanager_1.1.1.zip)
 
 ## Usage
 
