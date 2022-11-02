@@ -17,10 +17,8 @@ class DataSource: NSObject {
 		for platform in _localPlatforms {
 			platforms.append(platform)
 		}
-		for platform in _cloudPlatforms {
-			if !platforms.contains(platform) {
-				platforms.append(platform)
-			}
+		for platform in _cloudPlatforms where !platforms.contains(platform) {
+			platforms.append(platform)
 		}
 		return platforms
 	}
@@ -86,10 +84,8 @@ extension DataSource { /* XCODES */
 	}
 
 	private func validateXcodes() {
-		for xcode in _xcodes {
-			if evalualeXcodeInstance(path: xcode.path) == nil {
-				_xcodes.remove(object: xcode)
-			}
+		for xcode in _xcodes where evalualeXcodeInstance(path: xcode.path) == nil {
+			_xcodes.remove(object: xcode)
 		}
 	}
 

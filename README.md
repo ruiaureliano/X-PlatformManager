@@ -1,6 +1,6 @@
 # ⚒️ X-PlatformManager
 
-[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.6-0f73b4.svg)](https://swift.org/blog/swift-5-6-released/) [![](https://img.shields.io/badge/docs-1.2-0f73b4.svg)](./DOCS.md)
+[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.7-0f73b4.svg)](https://swift.org/blog/swift-5-7-released/) [![](https://img.shields.io/badge/docs-1.3-0f73b4.svg)](./DOCS.md)
 
 ![](./assets/header/header.png)
 
@@ -9,14 +9,14 @@
 ![](./assets/readme/1.png)
 
 ```
-🛑 The current device configuration is unsupported. This iPhone 11 is 
+🛑 The current device configuration is unsupported. This iPhone 11 is
    running iOS 14.3 (18C66), which is not supported by Xcode 11.7.
 
    To run on this device, please update to a version of Xcode that supports iOS 14.3.
-   You can download Xcode from the Mac App Store or the Apple Developer website 
+   You can download Xcode from the Mac App Store or the Apple Developer website
 ```
 
-There's an updated list (*December 23, 2020*) of **iOS**, **TVOS**, and **WatchOS** platforms 💪
+There's an updated list (_December 23, 2020_) of **iOS**, **TVOS**, and **WatchOS** platforms 💪
 
 [![](./assets/readme/2.png)](./PLATFORMS.md)
 
@@ -26,7 +26,7 @@ This happens because Xcode doesn't have the latest platform images, as suggested
 
 ### Using Github
 
-[![](https://img.shields.io/badge/Download-1.2-0f73b4.svg?logo=github)](https://github.com/ruiaureliano/X-PlatformManager/releases/download/1.2/x-platformmanager_1.2.zip)
+[![](https://img.shields.io/badge/Download-1.3-0f73b4.svg?logo=github)](https://github.com/ruiaureliano/X-PlatformManager/releases/download/1.3/x-platformmanager_1.3.zip)
 
 ## Usage
 
@@ -42,9 +42,9 @@ For each item, there are three possible states
 
 ![](./assets/readme/5.png)
 
-+ **`Installed`** - It's installed  for the selected Xcode instance 
-+ **`Downloaded`** - It's located in other Xcode instance, but not installed for the selected Xcode instance 
-+ **`Cloud`** - Its store on the [**cloud**](./PLATFORMS.md) and can be downloaded and installed
+- **`Installed`** - It's installed for the selected Xcode instance
+- **`Downloaded`** - It's located in other Xcode instance, but not installed for the selected Xcode instance
+- **`Cloud`** - Its store on the [**cloud**](./PLATFORMS.md) and can be downloaded and installed
 
 Press the ⚙️ to see options available 👈
 

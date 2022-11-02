@@ -1,6 +1,6 @@
 # 👨‍🏫 Docs
 
-[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.4-0f73b4.svg)](https://swift.org/blog/swift-5-6-released/)
+[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.7-0f73b4.svg)](https://swift.org/blog/swift-5-7-released/)
 
 ![](./assets/header/header.png)
 
@@ -8,8 +8,8 @@
 
 Download the [platform version](./PLATFORMS.md) that you are looking for, you will find two files for each version.
 
-+ `DeveloperDiskImage.dmg`
-+ `DeveloperDiskImage.dmg.signature`
+- `DeveloperDiskImage.dmg`
+- `DeveloperDiskImage.dmg.signature`
 
 if you want to create the version **14.x for iPhone**.
 
@@ -23,6 +23,7 @@ sudo mkdir 14.x
 sudo mv /Users/ruiaureliano/Downloads/DeveloperDiskImage.dmg 14.x
 sudo mv /Users/ruiaureliano/Downloads/DeveloperDiskImage.dmg.signature 14.x
 ```
+
 **3)** Done ✅
 
 ---
