@@ -1,6 +1,6 @@
 # ⚒️ X-PlatformManager
 
-[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.7-0f73b4.svg)](https://swift.org/blog/swift-5-7-released/) [![](https://img.shields.io/badge/docs-1.3-0f73b4.svg)](./DOCS.md)
+[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.9-0f73b4.svg)](https://swift.org/blog/swift-5-9-released/) [![](https://img.shields.io/badge/docs-2.0-0f73b4.svg)](./DOCS.md)
 
 ![](./assets/header/header.png)
 
