@@ -1,11 +1,11 @@
 # 🖥 Platforms
 
-[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.7-0f73b4.svg)](https://swift.org/blog/swift-5-7-released/) [![](https://img.shields.io/badge/docs-1.0-0f73b4.svg)](./DOCS.md)
+[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.9-0f73b4.svg)](https://swift.org/blog/swift-5-9-released/) [![](https://img.shields.io/badge/docs-2.0-0f73b4.svg)](./DOCS.md)
 
 ![](./assets/header/header.png)
 
 ## AppleTVOS
-
+[![](https://img.shields.io/badge/AppleTV%20OS-16.4-0f73b4.svg)](./platforms/AppleTVOS/16.4)
 [![](https://img.shields.io/badge/AppleTV%20OS-16.1-0f73b4.svg)](./platforms/AppleTVOS/16.1)
 [![](https://img.shields.io/badge/AppleTV%20OS-16.0-0f73b4.svg)](./platforms/AppleTVOS/16.0)
 [![](https://img.shields.io/badge/AppleTV%20OS-15.4-0f73b4.svg)](./platforms/AppleTVOS/15.4)
@@ -40,6 +40,7 @@
 
 ## iPhoneOS
 
+[![](https://img.shields.io/badge/iPhone%20OS-16.4-0f73b4.svg)](./platforms/iPhoneOS/16.4)
 [![](https://img.shields.io/badge/iPhone%20OS-16.1-0f73b4.svg)](./platforms/iPhoneOS/16.1)
 [![](https://img.shields.io/badge/iPhone%20OS-16.0-0f73b4.svg)](./platforms/iPhoneOS/16.0)
 [![](https://img.shields.io/badge/iPhone%20OS-15.5-0f73b4.svg)](./platforms/iPhoneOS/15.5)
@@ -86,6 +87,7 @@
 
 ## WatchOS
 
+[![](https://img.shields.io/badge/Watch%20OS-9.4-0f73b4.svg)](./platforms/WatchOS/9.4)
 [![](https://img.shields.io/badge/Watch%20OS-9.1-0f73b4.svg)](./platforms/WatchOS/9.1)
 [![](https://img.shields.io/badge/Watch%20OS-9.0-0f73b4.svg)](./platforms/WatchOS/9.0)
 [![](https://img.shields.io/badge/Watch%20OS-8.5-0f73b4.svg)](./platforms/WatchOS/8.5)
@@ -118,4 +120,4 @@
 
 I'm [Rui Aureliano](http://ruiaureliano.com), iOS and macOS Engineer at [Olá Brothers](https://theolabrothers.com). We make [Sip](https://sipapp.io) 🤓
 
-[Linkedin](https://www.linkedin.com/in/ruiaureliano) | [AngelList](https://angel.co/ruiaureliano) | [Twitter](https://twitter.com/ruiaureliano) | [Github](https://github.com/ruiaureliano) | [Medium](https://medium.com/@ruiaureliano) | [Stackoverflow](https://stackoverflow.com/users/881095/ruiaureliano)
+[Linkedin](https://www.linkedin.com/in/ruiaureliano) | [Twitter](https://twitter.com/ruiaureliano) | [Github](https://github.com/ruiaureliano) | [Stackoverflow](https://stackoverflow.com/users/881095/ruiaureliano)
