@@ -1,6 +1,6 @@
 # 👨‍🏫 Docs
 
-[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.7-0f73b4.svg)](https://swift.org/blog/swift-5-7-released/)
+[![](https://img.shields.io/badge/MIT-License-0f73b4.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.9-0f73b4.svg)](https://swift.org/blog/swift-5-9-released/)
 
 ![](./assets/header/header.png)
 
@@ -30,4 +30,4 @@ sudo mv /Users/ruiaureliano/Downloads/DeveloperDiskImage.dmg.signature 14.x
 
 I'm [Rui Aureliano](http://ruiaureliano.com), iOS and macOS Engineer at [Olá Brothers](https://theolabrothers.com). We make [Sip](https://sipapp.io) 🤓
 
-[Linkedin](https://www.linkedin.com/in/ruiaureliano) | [AngelList](https://angel.co/ruiaureliano) | [Twitter](https://twitter.com/ruiaureliano) | [Github](https://github.com/ruiaureliano) | [Medium](https://medium.com/@ruiaureliano) | [Stackoverflow](https://stackoverflow.com/users/881095/ruiaureliano)
+[Linkedin](https://www.linkedin.com/in/ruiaureliano) | [Twitter](https://twitter.com/ruiaureliano) | [Github](https://github.com/ruiaureliano) | [Stackoverflow](https://stackoverflow.com/users/881095/ruiaureliano)
