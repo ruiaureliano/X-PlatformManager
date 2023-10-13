@@ -10,7 +10,7 @@ import Cocoa
 
 	override func draw(_ dirtyRect: NSRect) {
 		super.draw(dirtyRect)
-		let bezier = NSBezierPath(roundedRect: dirtyRect, xRadius: 8, yRadius: 8)
+		let bezier = NSBezierPath(roundedRect: bounds, xRadius: 8, yRadius: 8)
 		bezier.addClip()
 		if isSelected {
 			NSColor.controlAccentColor.setFill()

@@ -206,9 +206,7 @@ extension DataSource { /* PLATFORMS */
 					let version = String(tokens.first ?? "")
 					var build = ""
 					if tokens.count > 1 {
-						build = String(tokens[1])
-						build = build.replacingOccurrences(of: "(", with: "")
-						build = build.replacingOccurrences(of: ")", with: "")
+						build = String(tokens[1]).replacingOccurrences(of: "(", with: "").replacingOccurrences(of: ")", with: "")
 					}
 					platforms.append(Platform(type: .appleTVOS, status: .local, version: version, build: build, path: path))
 				}
@@ -236,9 +234,7 @@ extension DataSource { /* PLATFORMS */
 					let version = String(tokens.first ?? "")
 					var build = ""
 					if tokens.count > 1 {
-						build = String(tokens[1])
-						build = build.replacingOccurrences(of: "(", with: "")
-						build = build.replacingOccurrences(of: ")", with: "")
+						build = String(tokens[1]).replacingOccurrences(of: "(", with: "").replacingOccurrences(of: ")", with: "")
 					}
 					platforms.append(Platform(type: .watchOS, status: .local, version: version, build: build, path: path))
 				}

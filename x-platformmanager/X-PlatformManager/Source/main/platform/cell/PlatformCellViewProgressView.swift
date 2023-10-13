@@ -17,7 +17,7 @@ import Cocoa
 	override func draw(_ dirtyRect: NSRect) {
 		super.draw(dirtyRect)
 
-		let bezier = NSBezierPath(roundedRect: dirtyRect, xRadius: dirtyRect.height / 2, yRadius: dirtyRect.height / 2)
+		let bezier = NSBezierPath(roundedRect: bounds, xRadius: bounds.height / 2, yRadius: bounds.height / 2)
 		bezier.addClip()
 		NSColor.labelColor.withAlphaComponent(0.1).setFill()
 		bezier.fill()
@@ -30,11 +30,11 @@ import Cocoa
 		}
 		let progressBezier = NSBezierPath(
 			roundedRect: CGRect(
-				x: dirtyRect.origin.x,
-				y: dirtyRect.origin.y,
-				width: dirtyRect.size.width * CGFloat(_progress) / 100, height: dirtyRect.size.height),
-			xRadius: dirtyRect.height / 2,
-			yRadius: dirtyRect.height / 2
+				x: bounds.origin.x,
+				y: bounds.origin.y,
+				width: bounds.size.width * CGFloat(_progress) / 100, height: bounds.size.height),
+			xRadius: bounds.height / 2,
+			yRadius: bounds.height / 2
 		)
 		if isSelected {
 			NSColor.white.setFill()
